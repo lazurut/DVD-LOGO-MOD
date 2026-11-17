@@ -14,7 +14,7 @@ using UnityEngine.UI;
 
 namespace DVDLogoMod
 {
-    [BepInPlugin("com.lazurut.dvdlogomod", "DVD_Logo_Mod", "1.0.0")]
+    [BepInPlugin("com.lazurut.dvdlogomod", "DVD_Logo_Mod", "1.0.3")]
     public class DVDLogoPlugin : BaseUnityPlugin
     {
         internal static ManualLogSource Log;
