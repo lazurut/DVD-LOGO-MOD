@@ -1,0 +1,83 @@
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\DVD LOGO MOD.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\DVD LOGO MOD.pdb
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\0Harmony.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\BepInEx.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UI.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Mono.Cecil.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\MonoMod.Utils.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\MonoMod.RuntimeDetour.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\netstandard.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityCurlModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.ContentLoadModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityAnalyticsCommonModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.NVIDIAModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\0Harmony.xml
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\BepInEx.xml
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\MonoMod.Utils.xml
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\MonoMod.RuntimeDetour.xml
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD LOGO MOD.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD LOGO MOD.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD LOGO.4A7E9B97.Up2Date
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD LOGO MOD.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD LOGO MOD.pdb
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Unity.Animation.Rigging.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Unity.Animation.Rigging.DocCodeExamples.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Unity.Burst.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Unity.Burst.Unsafe.dll

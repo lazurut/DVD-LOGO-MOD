@@ -1,0 +1,29 @@
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\DVD LOGO MOD.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\DVD LOGO MOD.pdb
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\netstandard.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD_Logo_Mod.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD_Logo_Mod.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD_Logo.84AAB766.Up2Date
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD LOGO MOD.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\obj\Debug\DVD LOGO MOD.pdb
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Unity.InputSystem.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Unity.InputSystem.ForUI.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Configgy.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\PluginConfigurator.dll
+C:\Users\Bogdan\Documents\DVD LOGO MOD\DVD LOGO MOD\bin\Debug\PluginConfiguratorComponents.dll
